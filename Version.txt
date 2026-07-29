@@ -1,1 +1,1 @@
-1.0.2 (https://github.com/NuvinaOwner/Zenith-Launcher/releases/latest/download/Nythera.Launcher.exe)
+1.0.2 (https://github.com/NuvinaOwner/Nythera-Launcher/releases/latest/download/Nythera.Launcher.exe)
