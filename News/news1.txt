@@ -1,4 +1,4 @@
-https://cdn.discordapp.com/attachments/1531522919560249446/1531537667446280222/Zenith_Launcher.png?ex=6a69931a&is=6a68419a&hm=51016c4ea4554ee7abd9cc3ea2f286fbe3329e5ec9e1381de3cf8e62fac9a4d7&
+https://ibb.co/k6KqJVdt
 https://discord.gg/2bchdEvfDS
-title = "Welcome To The Zenith Launcher"
+title = "Zenith Client For 1.8.9"
 desc = "Welcome To The Zenith Launcher V1.0.0"
