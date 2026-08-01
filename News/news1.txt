@@ -1,4 +1,4 @@
 https://ibb.co/HfrdkNmD
 https://discord.gg/2bchdEvfDS
 title = "Nythera Client For 1.8.9"
-desc = "Welcome To The Nythera V1.0.1"
+desc = "Welcome To The Nythera V1.0.3"
